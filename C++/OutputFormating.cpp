@@ -28,7 +28,6 @@ int main()
     sum = num1 / num2;
     cout << setw(20) << "The divition is : " << sum << endl;
 
-    
     // For use Setw this is fixed the value or messege in the output
     //  sum = num1 % num2;
     //  cout << "The reminder is :" << sum << endl;
