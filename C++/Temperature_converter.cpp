@@ -2,6 +2,8 @@
 #include <conio.h>
 using namespace std;
 
+// Celsius to Farenheit ;
+
 int main()
 {
 
@@ -9,7 +11,7 @@ int main()
     cout << "Enter the Celsius :" << endl;
     cin >> celsius;
 
-    farn = 1.8* celsius + 32;
+    farn = 1.8 * celsius + 32;
     cout << "Fahrenheit Temperature is :" << farn;
 
     getch();
